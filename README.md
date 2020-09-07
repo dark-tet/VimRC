@@ -1,4 +1,4 @@
-Install VimPlugin by (junegunn/vim-plug)[https://github.com/junegunn/vim-plug]
+Install VimPlugin by [junegunn/vim-plug](https://github.com/junegunn/vim-plug)
 
 ###### Unix
 
