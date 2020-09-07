@@ -51,6 +51,7 @@ Plug '/home/mpaulson/personal/vim-apm'
 Plug 'theprimeagen/vim-be-good'
 Plug 'vim-airline/vim-airline'
 Plug 'gruvbox-community/gruvbox'
+Plug 'scrooloose/nerdtree'
 
 "  I AM SO SORRY FOR DOING COLOR SCHEMES IN MY VIMRC, BUT I HAVE
 "  TOOOOOOOOOOOOO
@@ -188,5 +189,5 @@ augroup END
 augroup THE_PRIMEAGEN
     autocmd!
     autocmd BufWritePre * :call TrimWhitespace()
-    autocmd VimEnter * :VimApm
+"    autocmd VimEnter * :VimApm
 augroup END
